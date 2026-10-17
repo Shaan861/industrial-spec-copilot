@@ -1,0 +1,5 @@
+.venv/
+ingest.py
+*.pdf
+__pycache__/
+.env
